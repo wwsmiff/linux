@@ -1,0 +1,3 @@
+[submodule "11-2024/dotfiles"]
+	path = 11-2024/dotfiles
+	url = https://github.com/wwsmiff/dotfiles
